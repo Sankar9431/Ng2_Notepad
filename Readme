@@ -1,0 +1,6 @@
+A simple Notepad app using Angular 2.
+
+* Working on toggling the Sidebar. Will update the same soon.
+
+******************
+Unrar > npm install > ng serve

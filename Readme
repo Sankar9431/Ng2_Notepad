@@ -3,4 +3,4 @@ A simple Notepad app using Angular 2.
 * Search works regardless if the note-list is toggled. But, in order to see the search results, the list should be toggled.
 
 ******************
-Unrar > npm install > ng serve
+UnPack > npm install > ng serve
